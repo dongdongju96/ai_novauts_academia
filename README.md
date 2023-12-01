@@ -3,6 +3,8 @@ AI Project-Based Learning
 [introduce](https://aipark.unist.ac.kr/novatus/)
 
 ## data structure
+
+```bash
 .
 ├── test
 │   ├── block
@@ -19,6 +21,6 @@ AI Project-Based Learning
     ├── car
     ├── etc
     └── robot
-
+```
 
 
